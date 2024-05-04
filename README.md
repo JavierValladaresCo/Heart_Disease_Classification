@@ -2,7 +2,7 @@
 
 ![Heart logo](/images/Heart_Disease.jpg "Haert Logo")
 
-Link to the Heart Disease Dataset [Kaggle](https://www.kaggle.com/datasets/mexwell/heart-disease-dataset).
+Link to the Heart Disease Dataset reference: [Kaggle](https://www.kaggle.com/datasets/mexwell/heart-disease-dataset).
 
 ## Libraries
 
