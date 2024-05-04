@@ -1,5 +1,7 @@
 # Heart Disease Classification
 
+![Heart logo](/assets/images/Hear_Disease.jpg "Haert Logo")
+
 ## Libraries
 
 ```
