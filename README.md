@@ -1,6 +1,6 @@
 # Heart Disease Classification
 
-![Heart logo](/assets/images/Heart_Disease.jpg "Haert Logo")
+![Heart logo](/images/Heart_Disease.jpg "Haert Logo")
 
 ## Libraries
 
