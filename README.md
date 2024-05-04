@@ -1,6 +1,6 @@
 # Heart Disease Classification
 
-![Heart logo](/images/Heart_Disease.jpg "Haert Logo")
+![Heart logo](/images/Heart_Disease.jpg "Heart Logo")
 
 Link to the Heart Disease Dataset reference: [Kaggle](https://www.kaggle.com/datasets/mexwell/heart-disease-dataset).
 
