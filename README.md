@@ -2,6 +2,8 @@
 
 ![Heart logo](/images/Heart_Disease.jpg "Haert Logo")
 
+Link to the Heart Disease Dataset [Kaggle]([https://duckduckgo.com](https://www.kaggle.com/datasets/mexwell/heart-disease-dataset)).
+
 ## Libraries
 
 ```python
