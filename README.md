@@ -14,3 +14,10 @@ import seaborn as sns
 import missingno as msno
 ```
 
+## Conclusions
+
+## Challenge
+
+## Interesting Techniques
+
+## What else I might have done?
