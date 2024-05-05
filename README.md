@@ -1,23 +1,47 @@
+
 # Heart Disease Classification
 
-![Heart logo](/images/Heart_Disease.jpg "Heart Logo")
+The purpose of this project is to build a machine learning model to classify the presence or absence of heart disease based on 11 different features related to medical parameters. Utilizing the [Heart Disease Dataset](https://www.kaggle.com/datasets/mexwell/heart-disease-dataset/data) from Kaggle, which combines five popular heart disease datasets.
+![Heart Image](/images/Heart_Disease.jpg "Heart Logo")
 
-Link to the Heart Disease Dataset reference: [Kaggle](https://www.kaggle.com/datasets/mexwell/heart-disease-dataset).
 
-## Libraries
+## Methods Used
 
-```python
-import numpy as np # linear algebra
-import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
-import matplotlib.pyplot as plt
-import seaborn as sns
-import missingno as msno
-```
+ - Machine Learning
+ - Predictive Modeling
+ - Data Visualization
+
+
+## Technologies
+
+- Python3
+- Numpy
+- Pandas
+- Seaborn
+- Missingno
+- Scikit Learn
+
+
+## Needs of this project
+
+- Data processing/cleaning
+- Data exploration/descriptive statistics
+- Statistical modeling
 
 ## Conclusions
 
-## Challenge
 
-## Interesting Techniques
+![Confussion Matrix](/images/Confussion Matrix.png "Confussion Matrix")
 
-## What else I might have done?
+## Chalenges
+
+
+
+## What else i might have done?
+
+
+## Authors
+
+- [@JavierValladaresCo](https://www.github.com/JavierValladaresCo)
+
+
