@@ -31,7 +31,7 @@ The purpose of this project is to build a machine learning model to classify the
 
 ## Conclusions
 
-![Confussion Matrix]("/images/Confussion Matrix.png" "Confussion Matrix")
+![Confussion Matrix](/images/Confussion_Matrix.png "Confussion Matrix")
 
 ## Chalenges
 
