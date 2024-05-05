@@ -33,9 +33,7 @@ The purpose of this project is to build a machine learning model to classify the
 
 ![Confussion Matrix](/images/Confussion_Matrix.png "Confussion Matrix")
 
-## Chalenges
-
-
+## Challenges
 
 ## What else i might have done?
 
