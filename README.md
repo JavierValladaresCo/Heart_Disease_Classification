@@ -2,6 +2,7 @@
 # Heart Disease Classification
 
 The purpose of this project is to build a machine learning model to classify the presence or absence of heart disease based on 11 different features related to medical parameters. Utilizing the [Heart Disease Dataset](https://www.kaggle.com/datasets/mexwell/heart-disease-dataset/data) from Kaggle, which combines five popular heart disease datasets.
+
 ![Heart Image](/images/Heart_Disease.jpg "Heart Logo")
 
 
@@ -30,8 +31,7 @@ The purpose of this project is to build a machine learning model to classify the
 
 ## Conclusions
 
-
-![Confussion Matrix](/images/Confussion Matrix.png "Confussion Matrix")
+![Confussion Matrix]("/images/Confussion Matrix.png" "Confussion Matrix")
 
 ## Chalenges
 
