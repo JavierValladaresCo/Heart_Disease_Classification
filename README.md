@@ -31,6 +31,8 @@ The purpose of this project is to build a machine learning model to classify the
 
 ## Conclusions
 
+In conclusion, after preprocessing the dataset and training the random forest and extra trees models considering different numbers of trees, we find that the best out-of-bag score is achieved for the extra trees model with 500 decision trees. This model provides us with a recall score for the test subset of 96% for target 1, as we can see in the figure. Which within the context of the problem is a good result, because only 4% of the people who had a target 1 were diagnosed with a target 0. 
+
 ![Confussion Matrix](/images/Confussion_Matrix.png "Confussion Matrix")
 
 ## Challenges
