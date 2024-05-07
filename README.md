@@ -35,8 +35,11 @@ The purpose of this project is to build a machine learning model to classify the
 
 ## Challenges
 
+This project did not present many challenges. Therefore, the main challenge of this work was determining how to replace the spurious values in the dataset, because a significant portion of the data contained atypical values or input errors for different features. Besides, if these values were used to train the model, they would significantly worsen the resulting prediction.
+
 ## What else i might have done?
 
+Although the obtained result is quite satisfactory, something that could improve this outcome could be applying standardization or normalization of the numerical variables. This would aim to improve the results for atypical values, as well as scale the values for each features more effectively.
 
 ## Authors
 
